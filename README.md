@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniloarantes
 - 👀 I’m interested in tech, education, Linux, Back-End and Front-End
 - 🌱 I’m currently learning NodeJS, VUE.JS
-- 📫 How to reach me -> daniloarantes.com
+- 📫 How to reach me -> daniloarantes.com.br
 
 <!---
 daniloarantes/daniloarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
